@@ -26,7 +26,7 @@ News
 Research Experience
 ------
 - **Remote Research Intern:** Apple. Supervised by Dr. [Shuang Ma](https://www.shuangma.me/). May 2023 -Present <br>
-      + **Applied Research on Visual Large Language Models**
+  + **Applied Research on Visual Large Language Models** <br>
         exploring LLM and Large Multimodal Models self-alignment and building Large Multimodal Models for embodied AI.
 
 - **Remote Research Intern:**  Microsoft Research. Supervised by Dr. [Shuang Ma](https://www.shuangma.me/). May 2022 - March 2023 <br>

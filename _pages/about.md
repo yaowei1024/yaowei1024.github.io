@@ -10,7 +10,9 @@ redirect_from:
 
 
 
-I am a third-year master student at Zhejiang University, and I am fortunate to be advised by Prof. [Zhongjie Ba](https://scholar.google.com/citations?user=dO2kc6kAAAAJ) and [Kui Ren](https://scholar.google.com/citations?user=uuQA_rcAAAAJ). Prior to attending ZJU, I earned my Bachelor's degree in Computer Science from Zhejiang University City College (Hangzhou City University). My current research interests are focused on exploring LLM and Large Multimodal Models self-alignment and building Large Multimodal Models for embodied AI.
+I am a third-year master student at Zhejiang University, and I am fortunate to be advised by Prof. [Zhongjie Ba](https://scholar.google.com/citations?user=dO2kc6kAAAAJ) and [Kui Ren](https://scholar.google.com/citations?user=uuQA_rcAAAAJ). Prior to attending ZJU, I earned my Bachelor's degree in Computer Science from Zhejiang University City College (Hangzhou City University).
+
+My current research interests are focused on exploring LLM and Large Multimodal Models self-alignment and building Large Multimodal Models for embodied AI.
 
 
 

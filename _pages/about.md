@@ -14,6 +14,7 @@ I am a third-year master student at Zhejiang University, and I am fortunate to b
 
 My current research interests are focused on exploring LLM and Large Multimodal Models self-alignment and building Large Multimodal Models for embodied AI.
 
+I’m looking for a PhD position starting in Sept of 2024.
 
 
 [//]: # (My particular interest lies in designing for sequential decision-making, utilizing unified approaches to learn from diverse and/or unlabeled sequential data, and boarder logistic and applications with large foundation models.)
